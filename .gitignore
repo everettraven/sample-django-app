@@ -1,0 +1,12 @@
+# Pipenv
+Pipfile.lock
+
+# pycache
+**/__pycache__/
+
+# migrations
+**/migrations/**
+!__init__.py
+
+# static files
+**/static/
